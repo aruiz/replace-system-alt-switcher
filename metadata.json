@@ -1,6 +1,6 @@
 {
   "shell-version": ["3.10"],
-  "uuid": "hide-system-alt-switcher@emilio.sanchez.gmail.com",
+  "uuid": "hide-system-alt-switcher@aruiz.gnome.org",
   "name": "Hide System Alt Switcher",
   "description": "Hide the powerOff/suspend alt switcher",
   "url": "http://github.com/aruiz/replace-system-alt-switcher",
