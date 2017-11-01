@@ -1,8 +1,8 @@
 {
   "shell-version": ["3.10"],
-  "uuid": "replace-system-alt-switcher@emilio.sanchez.gmail.com",
-  "name": "Replace System Alt Switcher",
-  "description": "Remove the powerOff/suspend alt switcher and replace it with two buttons (Suspend and PowerOff)",
-  "url": "http://github.com/emiliosanchez/replace-system-alt-switcher",
+  "uuid": "hide-system-alt-switcher@emilio.sanchez.gmail.com",
+  "name": "Hide System Alt Switcher",
+  "description": "Hide the powerOff/suspend alt switcher",
+  "url": "http://github.com/aruiz/replace-system-alt-switcher",
   "version": 1
 }
